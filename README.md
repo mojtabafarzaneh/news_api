@@ -2,8 +2,6 @@
 
 this is a demo api which get the latest news from NPR and will save it on the local database
 
-#how to run 
-
 
 
 this project will meet all of your key expectations such as saving data in database, writing clean codes, handeling errors.
